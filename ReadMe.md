@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.imgur.com/OVqvP.gif" />
+  <img src="https://i.imgur.com/OVqvP.gif", width=200 pixels />
   <br>
   
   ## Hi guys! 👋  <br>
