@@ -12,8 +12,8 @@
   
   #### Priority projects that I am currently working on :<br>
   https://github.com/healthbadge/episimmer <br>
-  
   <br>
+  
   #### You can find me on:
   [LinkedIn](https://www.linkedin.com/in/inavamsi) - [Email](mailto:inav65@gmail.com) - [Blog]()
   <br>
