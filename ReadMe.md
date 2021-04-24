@@ -10,10 +10,8 @@
   <br>
   <br>
   
-  #### Current projects based on priority :<br>
-   1. https://github.com/healthbadge/episimmer <br>
-   2. https://github.com/healthbadge/episimmer <br>
-   3. https://github.com/healthbadge/episimmer <br>
+  #### Priority projects that I am currently working on :<br>
+  https://github.com/healthbadge/episimmer <br>
   
   <br>
   #### You can find me on:
