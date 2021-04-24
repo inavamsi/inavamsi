@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1ZhxsK58xdrrKH1bq96Op5UveJ_jFH8lF/view?usp=sharing" />
+  <img src="https://i.imgur.com/OVqvP.gif" />
   <br>
   
   ## Hi guys! 👋  <br>
