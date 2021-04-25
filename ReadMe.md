@@ -15,7 +15,7 @@
   <br>
   
   #### You can find me on:
-  [LinkedIn](https://www.linkedin.com/in/inavamsi) - [Email](mailto:inav65@gmail.com) - [Blog](https://nonsenseopinion.blogspot.com/) - [Older Blog that I haven't updated in 5 years](http://inininc.blogspot.com/)
+  [LinkedIn](https://www.linkedin.com/in/inavamsi) - [Email](mailto:inav65@gmail.com) - [Blog](https://nonsenseopinion.blogspot.com/) - [Kid Inav Blog](http://inininc.blogspot.com/)
   <br>
   <br>
   <br>
