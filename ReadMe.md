@@ -10,7 +10,7 @@
   <br>
   <br>
   
-  #### Priority projects that I am currently working on :<br>
+  #### Open Source projects that I am currently working on :<br>
   https://github.com/healthbadge/episimmer <br>
   <br>
   
