@@ -10,7 +10,7 @@
   <br>
   <br>
   
-  #### Major Open Source projects that I am currently working on :<br>
+  #### Major projects that I am currently working on :<br>
   https://github.com/healthbadge/episimmer <br>
   <br>
   
